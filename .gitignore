@@ -1,0 +1,6 @@
+# build artifacts
+DiscordPingkBot/bin/
+DiscordPingBot/obj/
+
+# vs cache/options
+.vs/
